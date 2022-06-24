@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - About the Public Defender’s Office.md
       - Organisation Structure.md
       - Our Vision, Mission and Core Values.md
