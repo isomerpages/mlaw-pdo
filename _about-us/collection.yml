@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Vision, Mission and Core Values.md
       - page/.keep
       - page/sub-page.md
