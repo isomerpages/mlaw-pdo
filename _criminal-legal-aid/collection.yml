@@ -1,4 +1,5 @@
 collections:
   criminal-legal-aid:
     output: true
-    order: []
+    order:
+      - Scope of Services.md
