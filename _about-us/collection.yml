@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Supporting Partners.md
       - PDO Logo.md
       - Our History.md
       - About the Public Defender’s Office.md
