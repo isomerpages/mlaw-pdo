@@ -33,7 +33,7 @@ Please refer to the Schedule under the Public Defender’s Act 2022 () for more 
 **Civil Proceedings**
 	
 PDO does not handle civil proceedings.
-If you require legal advice or representation in civil proceedings, you may approach the Legal Aid Bureau (click &lt;[here](https://lab.mlaw.gov.sg/)&gt;).
+If you require legal advice or representation in civil proceedings, you may approach the Legal Aid Bureau (click [here](https://lab.mlaw.gov.sg/)).
 	
 Examples of civil cases will include, but are not limited to:
 	
