@@ -2,4 +2,5 @@ collections:
   criminal-legal-aid:
     output: true
     order:
+      - Qualifying for help.md
       - Scope of Services.md
