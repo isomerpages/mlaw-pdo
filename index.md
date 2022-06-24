@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Public Defender's Office
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -32,3 +32,4 @@ sections:
           description: Find out more about the Act
           url: ""
 ---
+
