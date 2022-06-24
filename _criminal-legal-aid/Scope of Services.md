@@ -52,4 +52,3 @@ Examples of civil cases will include, but are not limited to:
 •	Claims in tort, e.g. compensation for injuries from accidents or medical negligence
 	
 •	Estate matters (including the application for a Grant of Letters of Administration or Probate, which are documents authorising the personal representative(s) of a deceased person to deal with and distribute the deceased person’s assets
-
