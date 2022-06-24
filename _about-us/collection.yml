@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - PDO Logo.md
-      - Our History.md
-      - About the Public Defender’s Office.md
-      - Organisation Structure.md
       - Our Vision, Mission and Core Values.md
+      - Organisation Structure.md
+      - About the Public Defender’s Office.md
+      - Our History.md
+      - PDO Logo.md
