@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About us
-    collection: collection
-  - title: Criminal Legal Aid
-    collection: collection
+  - title: About Us
+    collection: about-us
+  - title: About Us
+    collection: about-us
   - title: Resources
     resource_room: true
