@@ -2,6 +2,5 @@ collections:
   criminal-legal-aid:
     output: true
     order:
-      - What cases are handled by PDO?/Example Title.md
       - What cases are handled by PDO?/Scope of Services.md
       - What cases are handled by PDO?/.keep
