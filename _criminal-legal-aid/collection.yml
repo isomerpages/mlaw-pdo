@@ -2,6 +2,6 @@ collections:
   criminal-legal-aid:
     output: true
     order:
-      - Example Title.md
+      - How to Apply.md
       - Qualifying for help.md
       - Scope of Services.md
