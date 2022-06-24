@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - What cases are handled by PDO?/.keep
-      - Scope of Services.md
