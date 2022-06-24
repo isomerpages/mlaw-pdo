@@ -2,6 +2,7 @@ collections:
   criminal-legal-aid:
     output: true
     order:
+      - After you apply.md
       - How to Apply.md
       - Qualifying for help.md
       - Scope of Services.md
