@@ -3,7 +3,7 @@ title: Our Vision, Mission and Core Values
 permalink: /about-us/our-mission-core-values/
 description: ""
 ---
-	Our Vission, Mission and Core values
+Our Vission, Mission and Core values
 ---------------------------
 
 ##### **Vision**  
