@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://mlaw-pdo-staging.netlify.app
 prod: https://mlaw-pdo-prod.netlify.app
+is_government: true
