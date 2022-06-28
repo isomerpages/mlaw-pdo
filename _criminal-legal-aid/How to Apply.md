@@ -33,4 +33,25 @@ No. The person seeking legal aid must apply by himself/herself. However, if the 
 If your relative/friend is in Prison or in remand, please inform them that they may only apply directly through the Institution. 
 
 **5. What documents do I need to prepare?**
- 
+
+The required Court Documents are:
+
+1.	Bail Bond
+2.	Charge Sheet(s)
+3.	Latest Court Mention Slip
+4.	Bailor's Confirmation:
+a)	If your bail bond is (i) More than $15,000; or (ii) Paid with cash, you need to submit a signed confirmation from the bailor containing:
+i.	Name of bailor;
+ii.	Amount paid with cash; and
+iii.	Information of the source of funds.
+Note:  You can obtain your Court documents from the ICMS portal (https://icms.statecourts.gov.sg/sop/)
+
+The required Financial Documents are:
+
+1.	CPF Contribution History for the past 15 months (if no record, print/pdf page indicating so) (available at https://www.cpf.gov.sg/members)
+2.	IRAS Notice of Assessment for the past year (if no record, print/pdf the page indicating so) (available at https://www.iras.gov.sg/irashome/default.aspx)
+3.	Payslips for the past 12 months (if you do not have CPF contributions)
+4.	Bank Balance Slips for all the bank accounts that you have (dated within 7 days of application)
+5.	Insurance Document(s) stating its surrender value (dated within 7 days of application)
+6.	Investment/Stocks/Shares Document(s) stating its current market value (dated within 7 days of application)
+7.	Vehicle(s)’ Open Market Value (where applicable) (available at https:// www.onemotoring.com.sg/content/onemotoring/home.html)
