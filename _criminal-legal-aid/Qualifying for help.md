@@ -5,10 +5,12 @@ description: ""
 ---
 To qualify for criminal legal aid, you must fulfil the following criteria:
 
-**1.	Coverage of Offences**
+**1. Coverage of Offences**
+
 Any criminal proceedings that are instituted against you does not relate to an excluded offence. 
 
 **2.	Residential Status**
+
 You must either be a **Singapore citizen** or **permanent resident** residing in Singapore.
 [Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority’s website here.]
 
@@ -20,8 +22,8 @@ In respect of a person who lacks mental capacity, the person seeking to be his C
 
 You will need to pass both the **Means** and the **Merits Tests**.
 
-A.	What is a Means Test?
-
+**A.	What is a Means Test?**
+	
 The Means test assesses your financial circumstances and conducted only after your application is submitted to PDO. You will be asked about your income, savings, property, and other assets and to provide relevant supporting documents. 
 
 The Means test criteria takes into account the following: 
@@ -40,7 +42,7 @@ d.	if you are below 60 years old, the total amount of your savings and non-CPF i
 
 However, if you are 60 years old and above, the total savings and non-CPF investments (on the date of the application) must be $40,000 or lower. 
 
-###What is Average Per Capita Monthly Household Income (PCHI)?
+**What is Average Per Capita Monthly Household Income (PCHI)?**
 
 The Average PCHI is the average gross household income for the last 12 months divided by the total number of household members (including the applicant).
 
@@ -48,7 +50,7 @@ The Average PCHI is the average gross household income for the last 12 months di
 
 “Household members” refers to persons related by blood, marriage and/or legal adoption and have the same residential address reflected on the NRIC as the applicant for legal aid.
 
-###How are savings and non-CPF investments calculated?
+**How are savings and non-CPF investments calculated?**
 
 This is done by adding up the value of the following assets that you own in your name:
 
@@ -62,7 +64,7 @@ c) Any other financial/investment products with a cash value, such as fixed depo
 
 If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance.
 
-B.	What is a Merits Test?
+**B.	What is a Merits Test?**
 
 The Merits test assesses whether there are reasonable grounds to your application for criminal legal aid. The assessment will consider:
 
@@ -72,4 +74,4 @@ b.	whether there are reasonable grounds for defending your case in Court; or
 
 c.	whether there are merits to any criminal appeal or criminal application made or intended to be made by you; or to defend any criminal appeal or criminal application brought by the prosecution, as the case may be. 
 
-You will be asked about the facts of your case, your intended defence (if any) and for supporting documents. The Merits test Officer will then put up an opinion on the merits of your case for the Chief Public Defender’s / Board’s (whichever the case may be) consideration whether to grant you criminal legal aid. 
+You will be asked about the facts of your case, your intended defence (if any) and for supporting documents. The Merits test Officer will then put up an opinion on the merits of your case for the Chief Public Defender’s / Board’s (whichever the case may be) consideration whether to grant you criminal legal aid.
