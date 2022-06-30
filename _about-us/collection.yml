@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - Our Vision, Mission and Core Values.md
       - Organisation Structure.md
       - About the Public Defender’s Office.md
