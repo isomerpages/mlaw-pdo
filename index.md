@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Public Defender's Office
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: From 2 Jun 2020, the Ministry of Law Services Centre will operate
@@ -32,3 +32,4 @@ sections:
           description: Find out more about the Act
           url: ""
 ---
+
