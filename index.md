@@ -18,7 +18,7 @@ sections:
       title: Public Defender's Office
       subtitle: Advancing access to justice, the rule of law, the economy and society
         through policy, law and services.
-      background: /images/hero-banner.png
+      background: /images/justice.png
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
@@ -32,4 +32,3 @@ sections:
           description: Find out more about the Act
           url: ""
 ---
-
