@@ -7,4 +7,4 @@ The Public Defender Office ("PDO") is a department established under the Ministr
 
 We are headed by a Chief Public Defender and staffed by Public Defenders, responsible for carrying out the Public Defenders Act 2022 and the administration of the Public Defender’s Office.
 
-The PDO co-delivers criminal legal aid alongside the Criminal Legal Aid Scheme (“**CLAS**”) which is administered by Law Society Pro Bono Service ("LSPBS").
+The PDO co-delivers Criminal Defence Aid alongside Law Society Pro Bono Service ("LSPBS").
