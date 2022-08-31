@@ -1,6 +1,6 @@
 ---
 title: Scope of Services
-permalink: /criminal-legal-aid/scope-of-services
+permalink: /criminal-legal-aid/scope-of-services/
 description: ""
 ---
 **Criminal Proceedings**
@@ -27,7 +27,7 @@ c.	offences under the following acts:
 d.	an offence to be prosecuted or prosecuted by a private person.
 
 
-Please refer to the Schedule under the Public Defender’s Act 2022 () for more information on the prescribed list of excluded offences and excluded class of offences.
+Please refer to the Schedule under the Public Defender’s Act 2022 ([click here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704)) for more information on the prescribed list of excluded offences and excluded class of offences.
 	
 
 **Civil Proceedings**
