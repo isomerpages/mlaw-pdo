@@ -9,4 +9,7 @@ links:
   - title: Contact us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
   - title: E-Services
-    url: https://eservices.mlaw.gov.sg/ecoll/index
+    url: /permalink
+    sublinks:
+      - title: E-Collection Portal
+        url: https://eservices.mlaw.gov.sg/ecoll/index
