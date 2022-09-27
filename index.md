@@ -16,8 +16,8 @@ notification: From 2 Jun 2020, the Ministry of Law Services Centre will operate
 sections:
   - hero:
       title: Public Defender's Office
-      subtitle: Advancing access to justice, the rule of law, the economy and society
-        through policy, law and services.
+      subtitle: Enhancing access to justice through the provision of criminal defence
+        aid to vulnerable accused persons in Singapore
       background: /images/justice.png
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
@@ -32,4 +32,3 @@ sections:
           description: Find out more about the Act
           url: ""
 ---
-
