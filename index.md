@@ -22,7 +22,7 @@ sections:
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
-        - title: WHAT WE DO
+        - title: WHAT WE COVER
           description: ""
           url: ""
         - title: "APPLY FOR CRIMINAL DEFENCE AID "
