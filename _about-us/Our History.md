@@ -1,8 +1,10 @@
 ---
 title: Our History
-permalink: /about-us/our-history
+permalink: /about-us/our-history/
 description: ""
 ---
+**	History of criminal defence aid**
+
 The Government’s approach to supporting criminal legal aid has evolved over the years as we continuously review our legal framework to enhance access to justice.
 
 **1985: Start of the Criminal Legal Aid Scheme (CLAS)**
@@ -44,5 +46,3 @@ In response to Members’ questions on whether the Government would consider hav
 **2022: Ministerial Statement on the Establishment of a Public Defender’s Office**
 
 On 04 April 2022, Minister for Law K Shanmugam formally announced that MinLaw will be establishing a Public Defender’s Office and making consequential changes to expand criminal legal aid coverage.
-
-
