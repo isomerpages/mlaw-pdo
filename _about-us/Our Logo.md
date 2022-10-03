@@ -3,7 +3,7 @@ title: Our Logo
 permalink: /about-us/our-logo/
 description: ""
 ---
-![](/images/Picture1.png)
+< to embed corporate logo video here>
 
 
 The scales of justice that straddles the two doors symbolise truth and fairness, while the opening doors signify access to justice regardless of means. 
