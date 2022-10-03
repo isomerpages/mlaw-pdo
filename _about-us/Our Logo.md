@@ -6,11 +6,10 @@ description: ""
 ![](/images/Picture1.png)
 
 
+The scales of justice that straddles the two doors symbolise truth and fairness, while the opening doors signify access to justice regardless of means. 
 
-Doors marked by a scale are symbolic of access to justice for all, regardless of social standing or means.
+Blue represents integrity, service and excellence. It signifies an unwavering commitment to serve the public with dependability and trust.
 
-The scales of justice that sits in the middle of the blue and maroon doors signifies the collaboration between the public and private judicial community to preserve the pro bono spirit.
+Red represents justice, passion and determination. It is symbolic of a fervent pursuit of justice in a fair and compassionate manner.
 
-Blue represents professionalism, strength, knowledge and honesty. It conveys the integrity essential to good governance and public confidence.
-
-Maroon symbolises passion, determination and acceptance. It is symbolic of a dynamic judicial system anchored by the interests of the people.
+Together, the logo encapsulates the work of the Public Defender’s Office, to provide  quality legal representation to vulnerable members of our society through criminal defence aid, thereby enhancing access to justice.
