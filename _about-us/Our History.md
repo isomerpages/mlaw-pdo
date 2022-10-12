@@ -38,5 +38,4 @@ On 4 April 2022, the Ministry of Law announced its plans to establish the Public
 
 The Public Defenders Act was passed by Parliament on 1 August 2022 and assented to by the President on 19 August 2022.
 
-On 01 December 2022, the PDO commenced its operations. 
-
+On 01 December 2022, the PDO commenced its operations.
