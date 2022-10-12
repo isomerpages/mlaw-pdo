@@ -3,8 +3,6 @@ title: About the Public Defender’s Office
 permalink: /about-us/About-the-Public-Defenders-Office/
 description: ""
 ---
-The Public Defender Office ("PDO") is a department established under the Ministry of Law on  to provide legal assistance and representation to individuals who are facing non-capital criminal charges in Singapore but are unable to engage a lawyer due to limited means.
+The Public Defender’s Office (PDO) is established to enhance access to justice to vulnerable persons through the provision of criminal defence aid.
 
-We are headed by a Chief Public Defender and staffed by Public Defenders, responsible for carrying out the Public Defenders Act 2022 and the administration of the Public Defender’s Office.
-
-The PDO co-delivers Criminal Defence Aid alongside Law Society Pro Bono Service ("LSPBS").
+Set-up as a department under the Ministry of Law, the PDO will be staffed by full-time officers who are responsible for assisting the Chief Public Defender in carrying out his functions under the Public Defenders Act 2022.
