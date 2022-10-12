@@ -3,21 +3,23 @@ title: After you apply
 permalink: /criminal-legal-aid/After-you-apply/
 description: ""
 ---
-**1. What Happens After My Application is Approved?**
-
-PDO will assign a volunteer lawyer who will handle your case. You will be informed of the particulars of the lawyer by email. You will then be his/her client.
-
-If you discharge the counsel assigned by PDO, you will be required to reimburse PDO for the expenses incurred on your behalf, including but not limited to the costs of medical reports that have been paid for by PDO on your behalf. No new counsel will be assigned to you in the event of a discharge. 
-
-Applicants who are found to have the financial ability to engage their own private counsel subsequent to PDO approval will be investigated and dealt with seriously.
 
 
-**2. How Long Would It Take for Me to Get a Lawyer from PDO?**
 
-If you qualify completely for legal aid, it may take up to X weeks for a lawyer to be assigned to you. If your application is rejected or co-payment is required, you should be notified in about X weeks from the date your application is accepted for processing. If co-payment is required, the above timeline estimate will start from the date that co-payment is made in full.
+We can only assess your application when you have submitted all the required documents. 
 
-**3. Co-payment for Criminal Legal Aid**
+To assess your application, you will need to undergo two interviews:
 
-If your application for criminal legal aid is successful, you may be required to make one (1) or more financial contributions (either in a lump sum or by instalments, and by any time specified by the Chief Public Defender) to the Public Defender’s Office before a lawyer is assigned to you. 
+(1)&nbsp;&nbsp; **Means Test Interview** – determine if you have limited financial means to afford legal representation
 
-The financial contribution amount which you will need to pay is dependent on your income and assets, and will be made known to you when you are informed of the outcome of the application.
+(2)&nbsp;&nbsp; **Merits Test Interview** – determine if you have reasonable grounds for bringing or defending a case in Court
+
+During the interviews, we may ask you to provide further information or documentation to assess your financial circumstances, or to understand your legal case better.
+
+You will be informed of your interview date/time, and you must ensure you are available during the scheduled timing. The interviews will be conducted over the telephone. If you require accommodation (e.g., sign language interpreter etc), please inform us when you submit your application.
+
+If your application is successful, you will receive an email with your application outcome. You may be required to pay a contribution amount to the Public Defender’s Office before the Grant of Aid is given and a Public Defender is assigned to your case. Payment must be made within the deadline given, failing which the grant of aid will not be issued to you.
+
+Eligible cases for criminal defence aid may also be referred to Pro Bono SG. If your application is referred to Pro Bono SG, you will be required to pay a contribution amount to them before a volunteer lawyer is assigned to your case.
+
+The quantum of your contribution amount is based on the assessment of your means. You can make the payment via our eCollection Portal (click [here](https://eservices.mlaw.gov.sg/ecoll/index)). The available payment modes are PayNow, eNets, Visa/Mastercard.
