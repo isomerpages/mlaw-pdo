@@ -26,9 +26,9 @@ sections:
           description: ""
           url: ""
         - title: "APPLY FOR CRIMINAL DEFENCE AID "
-          description: Our processes and other info
+          description: Eligibility criteria & application process
           url: ""
-        - title: "Public Defenders Act and Regulations 2022 "
-          description: Find out more about the Act
+        - title: Common Questions
+          description: ""
           url: ""
 ---
