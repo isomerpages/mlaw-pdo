@@ -1,57 +1,57 @@
 ---
 title: How to Apply
-permalink: /criminal-legal-aid/How-to-Apply
+permalink: /criminal-legal-aid/How-to-Apply/
 description: ""
 ---
-**1. For applicants on bail**
 
-Before applying to the PDO, please ensure that you:
 
-a.	have already been formally charged in Court;
+Click [here](https://go.gov.sg/criminaldefenceaid) to apply online.  
 
-b.	face charges covered by PDO; and
+If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click here).
 
-c.	do not already have a lawyer representing you.
-If you fulfil the above criteria, please complete the online application form (click here).
+Alternatively, you can either call **1800-225-5529** or apply in-person at:    
 
-Please note that the submission of the PDO Application form does not mean or guarantee that your application is successful.
+·       **Ministry of Law Services Centre**
 
-PDO will conduct a preliminary assessment based on the information you have provided in the online application form. If you pass the preliminary assessment, we will follow up with instructions on the next steps and the submission of documents. 
-[insert contents]
-	
-**2. Need Help?**
+      45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
+      Mondays to Fridays: 8:30am to 5:00pm 
+	 (closed on weekends and public holidays)
 
-If you encounter difficulties or are uncertain of how to complete the online application form, please refer to the application guide (click here) for more information. 
-(To include guide for application form)
+·       **State Courts (Help Centre)**
 
-**3. For applicants on remand**
- 
-	
-**4. Can I Apply on behalf of My Relative/ Friend?**
-	
-No. The person seeking legal aid must apply by himself/herself. However, if the applicant is suffering from a mental/physical incapacitation, a representative with a signed Letter of Authority may apply on his/her behalf.
-If your relative/friend is in Prison or in remand, please inform them that they may only apply directly through the Institution. 
+        1 Havelock Square #B1-18 State Courts, Singapore 059724
+		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
-**5. What documents do I need to prepare?**
+**Supporting documents required**
 
-The required Court Documents are:
+You will need to submit the following supporting documents:
 
-1.	Bail Bond
-2.	Charge Sheet(s)
-3.	Latest Court Mention Slip
-4.	Bailor's Confirmation:
-a)	If your bail bond is (i) More than $15,000; or (ii) Paid with cash, you need to submit a signed confirmation from the bailor containing:
-i.	Name of bailor;
-ii.	Amount paid with cash; and
-iii.	Information of the source of funds.
-Note:  You can obtain your Court documents from the ICMS portal (https://icms.statecourts.gov.sg/sop/)
+·      NRIC (applicable for in-person applications)
 
-The required Financial Documents are:
+·     **Court documents**
 
-1.	CPF Contribution History for the past 15 months (if no record, print/pdf page indicating so) (available at https://www.cpf.gov.sg/members)
-2.	IRAS Notice of Assessment for the past year (if no record, print/pdf the page indicating so) (available at https://www.iras.gov.sg/irashome/default.aspx)
-3.	Payslips for the past 12 months (if you do not have CPF contributions)
-4.	Bank Balance Slips for all the bank accounts that you have (dated within 7 days of application)
-5.	Insurance Document(s) stating its surrender value (dated within 7 days of application)
-6.	Investment/Stocks/Shares Document(s) stating its current market value (dated within 7 days of application)
-7.	Vehicle(s)’ Open Market Value (where applicable) (available at https:// www.onemotoring.com.sg/content/onemotoring/home.html)
+o   Bail bond (or bailor’s confirmation, whichever applicable)
+
+o   Cautioned statement(s)
+
+o   Charge sheet(s)
+
+o   Latest court mention slip
+
+o   Any other document from the court, or medical reports where applicable
+
+·       **Financial documents**
+
+Latest bank statement(s) or bank account passbook(s)
+
+ (_For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly._)   
+
+o   Payslips for the last 12 months (if employed without CPF contributions)
+
+o   Any other supporting documents to show employment and income (if self-employed)
+
+o   Latest Central Depository (CDP) account statement (if relevant)
+
+o   Updated/Latest statements of investment products (such as fixed deposits, unit trusts, Singapore Saving Bonds and other investment products)
+
+·       Identity card (if applying in-person at MinLaw Services Centre or State Courts HELP Centre)
