@@ -3,7 +3,7 @@ title: Scope of Services
 permalink: /criminal-legal-aid/scope-of-services/
 description: ""
 ---
-**Criminal Proceedings**
+# Criminal Proceedings
 
 The Public Defender’s Office (“PDO”) provides legal representation to accused persons of limited means in certain criminal proceedings and for connected purposes. However, PDO does not handle criminal proceedings involving:
 
@@ -30,7 +30,7 @@ d.	an offence to be prosecuted or prosecuted by a private person.
 Please refer to the Schedule under the Public Defender’s Act 2022 (click [here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704))for more information on the prescribed list of excluded offences and excluded class of offences.
 	
 
-**Civil Proceedings**
+# Civil Proceedings
 	
 PDO does not handle civil proceedings.
 If you require legal advice or representation in civil proceedings, you may approach the Legal Aid Bureau (click [here](https://lab.mlaw.gov.sg/)).
