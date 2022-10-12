@@ -2,8 +2,8 @@ collections:
   criminal-defence-aid:
     output: true
     order:
-      - Common Questions.md
       - Scope of Services.md
       - Qualifying for help.md
       - How to Apply.md
       - After you apply.md
+      - Common Questions.md
