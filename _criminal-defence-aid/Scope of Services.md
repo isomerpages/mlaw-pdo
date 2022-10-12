@@ -29,26 +29,8 @@ d.	an offence to be prosecuted or prosecuted by a private person.
 
 Please refer to the Schedule under the Public Defender’s Act 2022 (click [here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704))for more information on the prescribed list of excluded offences and excluded class of offences.
 	
+The Public Defender’s Office will assess applications for criminal defence aid, including conducting a means test to assess the financial circumstances and merits test to assess whether there are reasonable grounds of the case. Eligible applications would be granted criminal defence aid and assigned to a Public Defender, who will then represent the accused person.
 
-# Civil Proceedings
-	
-PDO does not handle civil proceedings.
-If you require legal advice or representation in civil proceedings, you may approach the Legal Aid Bureau (click [here](https://lab.mlaw.gov.sg/)).
-	
-Examples of civil cases will include, but are not limited to:
-	
-•	Divorce (including divorces under the Administration of Muslim Law Act)
-	
-•	Variation or enforcement of Court orders on ancillary matters in a divorce (e.g. maintenance of ex-wife and children, division of assets)
-	
-•	Adoption
-	
-•	Custody of children
-	
-•	Monetary claims
-	
-•	Appointment of a Deputy under the Mental Capacity Act
-	
-•	Claims in tort, e.g. compensation for injuries from accidents or medical negligence
-	
-•	Estate matters (including the application for a Grant of Letters of Administration or Probate, which are documents authorising the personal representative(s) of a deceased person to deal with and distribute the deceased person’s assets
+Eligible applications may also be referred to the Pro Bono SG, and a volunteer private lawyer would be assigned to represent the accused person.
+
+An eligible accused person will not get to choose between the Public Defender or a volunteer private lawyer.
