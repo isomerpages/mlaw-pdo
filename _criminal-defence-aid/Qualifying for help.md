@@ -1,77 +1,91 @@
 ---
 title: Qualifying for help
-permalink: /criminal-legal-aid/Qualifying-for-help
+permalink: /criminal-legal-aid/Qualifying-for-help/
 description: ""
 ---
 To qualify for criminal legal aid, you must fulfil the following criteria:
 
-**1. Coverage of Offences**
-
-Any criminal proceedings that are instituted against you does not relate to an excluded offence. 
-
-**2.	Residential Status**
-
-You must either be a **Singapore citizen** or **permanent resident** residing in Singapore.
-[Citizens or residents of contracting states who are involved in applications under the Hague Convention on the Civil Aspects of International Child Abduction. (For more information, please refer to the Singapore Central Authority’s website here.]
-
-If you are below the age of 21, your parent or guardian must apply for criminal legal aid on your behalf.
-
-In respect of a person who lacks mental capacity, the person seeking to be his Court appointed Deputy under the Mental Capacity Act must apply for criminal legal aid on behalf of the mentally incapacitated person. A Deputy is a person appointed by the Court to make certain important decisions concerning the mentally incapacitated person’s welfare, property and/or affairs.
-
-**3.	Means and Merits Tests**
-
-You will need to pass both the **Means** and the **Merits Tests**.
-
-**A.	What is a Means Test?**
-	
-The Means test assesses your financial circumstances and conducted only after your application is submitted to PDO. You will be asked about your income, savings, property, and other assets and to provide relevant supporting documents. 
-
-The Means test criteria takes into account the following: 
-
-a.	whether the average per capita gross monthly household income (“PCHI”) is $1,500 or lower for the last 12 months prior to your application for criminal legal aid;
-
-b.	if you are the owner of any property:
-
-i.	the property must be used as your place of residence; and
-
-ii.	the annual value of that property for the last 12 months prior to your application must be $13,000 or lower; 
-
-c.	you must not own any other property apart from your place of residence; and
-
-d.	if you are below 60 years old, the total amount of your savings and non-CPF investments (on the date of the application) must be $10,000 or lower. 
-
-However, if you are 60 years old and above, the total savings and non-CPF investments (on the date of the application) must be $40,000 or lower. 
-
-**What is Average Per Capita Monthly Household Income (PCHI)?**
-
-The Average PCHI is the average gross household income for the last 12 months divided by the total number of household members (including the applicant).
-
-“Gross income” refers to the gross wages or salaries before deduction of CPF contributions and personal income tax. It comprises basic wages, overtime pay, commissions, tips, other allowances, and bonuses. For self-employed persons, gross income refers to profits from their business, trade or profession (i.e., total receipts less business expenses incurred) before the deduction of income tax.
-
-“Household members” refers to persons related by blood, marriage and/or legal adoption and have the same residential address reflected on the NRIC as the applicant for legal aid.
-
-**How are savings and non-CPF investments calculated?**
-
-This is done by adding up the value of the following assets that you own in your name:
-
-a) Bank accounts savings (personal or joint);
-
-b) Overall value of shares in your Central Depository (CDP) account; and
-
-c) Any other financial/investment products with a cash value, such as fixed deposit accounts at financial institutions, and shares, bonds and exchange traded funds aside from those in your CDP account.
-
-4. What happens if I fail the means test but I really cannot afford to pay for a private lawyer?
-
-If you fail the means test but you have certain reasons or information that you think makes your situation different or special, for example if you have a very serious illness and cannot afford legal services as you need to pay for major medical procedures, you may contact the MinLaw Services Centre for further assistance.
-
-**B.	What is a Merits Test?**
-
-The Merits test assesses whether there are reasonable grounds to your application for criminal legal aid. The assessment will consider:
-
-a.	whether you require legal representation to plead guilty;
-
-b.	whether there are reasonable grounds for defending your case in Court; or
-
-c.	whether there are merits to any criminal appeal or criminal application made or intended to be made by you; or to defend any criminal appeal or criminal application brought by the prosecution, as the case may be. 
-
-You will be asked about the facts of your case, your intended defence (if any) and for supporting documents. The Merits test Officer will then put up an opinion on the merits of your case for the Chief Public Defender’s / Board’s (whichever the case may be) consideration whether to grant you criminal legal aid.
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Age</span></b></p></td><td style="width:327.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l0 level1 lfo1;tab-stops:188.9pt" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">21 years old and above<b></b></span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l0 level1 lfo1;tab-stops:188.9pt" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">If you are below the age of 21, your parent or guardian must apply for criminal defence aid on your behalf<b></b></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Residential status</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
+  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraph"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Singapore Citizen or Permanent Resident</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Property</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Own not more than one property</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Property owned must not have (<span style="background:aqua;mso-highlight:aqua">be used as place of residence)</span> with annual value not exceeding SGD13,000</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Per capita household income (PCHI)</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
+  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraph"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Monthly per capita household income (PCHI) must be SGD1,500 and below</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Savings and investment</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Must not exceed SGD10,000 (if below 60 years old)</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">If 60 years old and above, must not exceed SGD40,000</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Type of offence</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Any criminal offence except the following:</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level2 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Punishable by death</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level2 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Regulatory in nature</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level2 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Related to (i) gambling and betting, (ii) organised and syndicate crime, (iii) terrorism <i>[See &lt;page link&gt; for list of 10 excluded Acts]</i></span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level2 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpLast"><span style="font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Private prosecutions</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:99.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal;tab-stops:
+  188.9pt" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Other criterion</span></b></p></td><td style="width:327.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="437"><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Already charged in Court</span></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l1 level1 lfo2;tab-stops:188.9pt" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif">Not represented by a lawyer</span></p></td></tr></tbody></table>
