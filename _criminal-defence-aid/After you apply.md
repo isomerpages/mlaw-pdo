@@ -3,11 +3,8 @@ title: After you apply
 permalink: /criminal-defence-aid/After-you-apply/
 description: ""
 ---
-
-
-
-
-We can only assess your application when you have submitted all the required documents. 
+![](/images/flowchart.png)
+> We can only assess your application when you have submitted all the required documents.
 
 To assess your application, you will need to undergo two interviews:
 
