@@ -18,7 +18,7 @@ sections:
       title: Public Defender's Office
       subtitle: Enhancing access to justice through the provision of criminal defence
         aid to vulnerable accused persons in Singapore
-      background: /images/justice.png
+      background: /images/Web.png
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
