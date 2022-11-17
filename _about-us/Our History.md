@@ -15,17 +15,17 @@ The Criminal Legal Aid Scheme (CLAS) was set up as a ground-up initiative to pro
 
 **2007:**
 
-The Law Society Pro Bono Services (now known as Pro Bono SG) took over the administration of CLAS. The Government also started funding criminal defence aid indirectly by providing funding support for their pro bono work.
+The Law Society Pro Bono Services (now known as Pro Bono SG) took over the administration of CLAS. The Government provided funding to Law Society’s Pro Bono Services Office for the general provision of pro bono services
 
 **2013:**
 
-The Government announced that it would start funding CLAS and announced the formation of a Criminal Legal Assistance Steering Committee (CLAS SC), chaired by a High Court judge, and comprising representatives from Law Society of Singapore, the Criminal Bar, Singapore Academy of Law and the Ministry of Law. The CLAS SC was tasked to set out the framework for an enhanced CLAS, in consultation with the Criminal Bar, in order to ensure that such aid was given to deserving cases.
+The Government announced the formation of a Criminal Legal Assistance Steering Committee (CLAS SC), chaired by a High Court judge, and comprising representatives from Law Society of Singapore, the Criminal Bar, Singapore Academy of Law and the Ministry of Law. The CLAS SC was tasked to set out the framework for an enhanced CLAS, in consultation with the Criminal Bar, in order to ensure that such aid was given to deserving cases.
 
 **2015:**
 
 Law firms stepped forward to support pro bono efforts, with 22 law firms signing Memorandums-of-Understanding pledging to take on 300 pro bono criminal cases yearly. The CLAS Fellowship was established with law firms sponsoring or seconding full-time lawyers to work exclusively on CLAS cases.
 
-The Government began co-funding CLAS.  Enhancements to the scheme were introduced to increase the scope of assistance provided, including broadening the means test criterion to allow more applicants to qualify for legal aid, and the introduction of a honoraria to recognise the contributions of volunteers who take on CLAS cases.
+The Government began funding criminal defence aid provided by CLAS directly.  Enhancements to the scheme were introduced to increase the scope of assistance provided, including broadening the means test criterion to allow more applicants to qualify for legal aid, and the introduction of a honoraria to recognise the contributions of volunteers who take on CLAS cases.
 
 From 2015 to 2021, an average of more than 1,200 persons received support each year from CLAS, a three-fold increase from pre-2015. The Government begins co-funding CLAS.  Enhancements to the scheme were introduced to increase the scope of assistance provided, including broadening the means test criterion to allow more applicants to qualify for legal aid, and the introduction of honoraria to recognise the contribution of volunteers who take on CLAS cases.
 
@@ -33,7 +33,7 @@ From 2015 to 2021, an average of more than 1,200 persons received support each y
 
 **2018- 2020:**
 
-The Government began a comprehensive review of Singapore’s criminal aid model. In 2020, the Ministry of Law announced that the Government was considering the feasibility of establishing a Public Defender’s Scheme.
+In 2018, the Government began a comprehensive review of Singapore’s criminal aid model. In 2020, the Ministry of Law announced that the Government was considering the feasibility of establishing a Public Defender’s Scheme.
 
 **2022:**
 
