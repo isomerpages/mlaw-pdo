@@ -30,4 +30,5 @@ sections:
         - title: Common Questions
           description: ""
           url: ""
+      background: /images/MicrosoftTeams-image (2).png
 ---
