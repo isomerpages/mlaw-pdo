@@ -30,4 +30,5 @@ sections:
         - title: Common Questions
           description: ""
           url: ""
+      background: /images/123456.jpg
 ---
