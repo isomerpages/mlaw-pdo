@@ -2,11 +2,11 @@ title: Public Defender's Office
 url: https://pdo.mlaw.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#a50619"
-  secondary-color: "#064379"
+  primary-color: "#a41f35"
+  secondary-color: "#001f5f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#0054a6"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
