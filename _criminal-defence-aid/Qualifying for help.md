@@ -5,4 +5,7 @@ description: ""
 ---
 To qualify for criminal legal aid, you must fulfil the following criteria:
 
-![](/images/criteria%203.png)
+
+
+
+
