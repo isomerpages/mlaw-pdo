@@ -3,8 +3,7 @@ title: Scope of Services
 permalink: /criminal-defence-aid/scope-of-services/
 description: ""
 ---
-
-# Criminal Proceedings
+# Scope of assistance
 
 The Public Defender’s Office (“PDO”) provides legal representation to accused persons of limited means in certain criminal proceedings and for connected purposes. However, PDO does not handle criminal proceedings involving:
 
