@@ -13,3 +13,5 @@ links:
     sublinks:
       - title: E-Collection Portal
         url: https://eservices.mlaw.gov.sg/ecoll/index
+  - title: News
+    resource_room: true
