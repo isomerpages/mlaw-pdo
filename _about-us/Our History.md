@@ -15,7 +15,7 @@ The Criminal Legal Aid Scheme (CLAS) was set up as a ground-up initiative to pro
 
 **2007:**
 
-The Law Society Pro Bono Services (now known as Pro Bono SG) took over the administration of CLAS. The Government provided funding to Law Society’s Pro Bono Services Office for the general provision of pro bono services
+The Law Society Pro Bono Services (now known as Pro Bono SG) took over the administration of CLAS. The Government provided funding to Law Society’s Pro Bono Services Office for the general provision of pro bono services.
 
 **2013:**
 
