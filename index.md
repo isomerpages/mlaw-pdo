@@ -2,7 +2,7 @@
 layout: homepage
 title: Public Defender's Office
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/PDO PMS HORZ-02.png
 permalink: /
 notification: ""
 sections:
@@ -24,3 +24,4 @@ sections:
           url: ""
       background: /images/figure.jpg
 ---
+
