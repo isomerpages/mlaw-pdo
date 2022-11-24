@@ -11,8 +11,8 @@ Alternatively, you can either call **1800-225-5529** or apply in-person at:
 
 * **Ministry of Law Services Centre**
 
-      45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
-      Mondays to Fridays: 8:30am to 5:00pm  (closed on weekends and public   holidays)
+     45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
+     Mondays to Fridays: 8:30am to 5:00pm  (closed on weekends and public  holidays)
 
 *  **State Courts (Help Centre)**
 
