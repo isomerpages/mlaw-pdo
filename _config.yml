@@ -53,7 +53,7 @@ plugins:
 staging: https://mlaw-pdo-staging.netlify.app
 prod: https://mlaw-pdo-prod.netlify.app
 is_government: true
-shareicon: /images/isomer-logo.svg
+shareicon: /images/PDO PMS HORZ-02.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
