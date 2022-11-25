@@ -3,9 +3,6 @@ title: Our Logo
 permalink: /about-us/our-logo/
 description: ""
 ---
-< to embed corporate logo video here>
-
-
 The scales of justice that straddles the two doors symbolise truth and fairness, while the opening doors signify access to justice regardless of means. 
 
 Blue represents integrity, service and excellence. It signifies an unwavering commitment to serve the public with dependability and trust.
