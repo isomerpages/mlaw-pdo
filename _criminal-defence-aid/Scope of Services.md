@@ -14,16 +14,16 @@ b.     regulatory offences (for e.g., traffic summons) and departmental char
 
 c.     offences under the following acts:
 
-        1.        Remote Gambling Act 2014
-        2.        Common Gaming Houses Act 1961
-        3.        Casino Control Act 2006
-        4.        Betting Act 1960
-        5.        Gambling Control Act 2022
-        6.        Organised Crime Act 2015
-        7.        Massage Establishment Act 2017
-        8.        Terrorism (Suppression of Financing) Act 2002
-        9.      Terrorism (Suppression of Bombings) Act 2007
-        10.   Terrorism (Suppression of Misuse of Radioactive Material) Act 2017
+   1. Remote Gambling Act 2014
+   2. Common Gaming Houses Act 1961
+   3. Casino Control Act 2006
+   4. Betting Act 1960
+   5. Gambling Control Act 2022
+   6. Organised Crime Act 2015
+   7.  Massage Establishment Act 2017
+   8. Terrorism (Suppression of Financing) Act 2002
+   9. Terrorism (Suppression of Bombings) Act 2007
+   10.Terrorism (Suppression of Misuse of Radioactive Material) Act 2017
 
 d.     private prosecutions
 
