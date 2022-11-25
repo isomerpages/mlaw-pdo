@@ -20,7 +20,7 @@ c.     offences under the following acts:
     4.  Betting Act 1960
     5.  Gambling Control Act 2022
     6.  Organised Crime Act 2015
-    7.   Massage Establishment Act 2017
+    7.  Massage Establishment Act 2017
     8.  Terrorism (Suppression of Financing) Act 2002
     9.  Terrorism (Suppression of Bombings) Act 2007
     10. Terrorism (Suppression of Misuse of Radioactive Material) Act 2017
