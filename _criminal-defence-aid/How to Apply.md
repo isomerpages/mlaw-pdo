@@ -10,11 +10,13 @@ If you encounter difficulties and need help with the completion of the online ap
 Alternatively, you can either call **1800-225-5529** or apply in-person at:    
 
 * **Ministry of Law Services Centre**
-     45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
-     Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public  holidays)
+     
+		 45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
+      Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public  holidays)
 
 *  **State Courts (Help Centre)**
-    1 Havelock Square #B1-18 State Courts, Singapore 059724
+    
+		1 Havelock Square #B1-18 State Courts, Singapore 059724
 		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
 **Supporting documents required**
