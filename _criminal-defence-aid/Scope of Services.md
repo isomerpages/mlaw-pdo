@@ -3,7 +3,8 @@ title: Scope of Services
 permalink: /criminal-defence-aid/scope-of-services/
 description: ""
 ---
-# Scope of assistance
+### Scope of assistance
+
 The Public Defender’s Office provides legal representation to individuals who cannot afford to engage a lawyer and are charged with most types of criminal offences.
 
 Criminal proceedings that the Public Defender's Office will **not** handle include:
