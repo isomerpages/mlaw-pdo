@@ -43,7 +43,7 @@ You will need to submit the following supporting documents:
 
 * Latest bank statement(s) or bank account passbook(s)
 
-      (_For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly._)&nbsp;&nbsp;&nbsp;
+      (For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly.)
 
 * Payslips for the last 12 months (if employed without CPF contributions)
 
