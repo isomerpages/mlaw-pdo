@@ -19,7 +19,7 @@ Apply in-person at:
 	 Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public  holidays)
 
 *  **State Courts (Help Centre)**
-    
+
 	  1 Havelock Square #B1-18 State Courts, Singapore 059724  
 		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
@@ -44,7 +44,6 @@ You will need to submit the following supporting documents:
 * Latest bank statement(s) or bank account passbook(s)
 
       (_For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly._)&nbsp;&nbsp;&nbsp;
-
 
 * Payslips for the last 12 months (if employed without CPF contributions)
 
