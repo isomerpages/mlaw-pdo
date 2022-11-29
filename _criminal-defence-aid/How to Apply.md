@@ -56,4 +56,9 @@ You will need to submit the following supporting documents:
 
 * Identity card (if applying in-person at MinLaw Services Centre or State Courts HELP Centre)
 
-You can refer to our supporting documents checklist (click here) above to ensure that you have completed and submitted all required documents.
+You can refer to our supporting documents checklist (click here) to confirm that you have prepared the required documents.
+
+#### Cannot find your charge sheet?
+
+Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download documents from ICMS (click here).
+
