@@ -5,7 +5,6 @@ description: ""
 ---
 The Public Defender’s Office provides legal representation to individuals who cannot afford to engage a lawyer and are charged with most types of criminal offences.
 
-
 #### How can I get help from the Public Defender’s Office?
 
 The Public Defender’s Office will assess applications for criminal defence aid, including conducting a means test to assess the financial circumstances and merits test to assess whether there are reasonable grounds of the case. Eligible applications would be granted criminal defence aid and assigned to a Public Defender, who will then represent the accused person.
