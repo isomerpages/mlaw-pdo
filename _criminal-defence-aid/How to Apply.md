@@ -56,4 +56,4 @@ You will need to submit the following supporting documents:
 
 * Identity card (if applying in-person at MinLaw Services Centre or State Courts HELP Centre)
 
-You can refer to our supporting documents checklist above to ensure that you have completed and submitted all required documents.
+You can refer to our supporting documents checklist (click here) above to ensure that you have completed and submitted all required documents.
