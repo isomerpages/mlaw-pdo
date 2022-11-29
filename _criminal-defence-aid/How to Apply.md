@@ -9,7 +9,9 @@ Apply online at [go.gov.sg/applypdo](https://go.gov.sg/applypdo).
 
 If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here](/files/FormSG%20Guide%20(281122).pdf)).
 
-Alternatively, you can either call **1800-225-5529** or apply in-person at:    
+#### In-person Applications
+
+Apply in-person at:    
 
 * **Ministry of Law Services Centre**
      
@@ -25,8 +27,6 @@ Alternatively, you can either call **1800-225-5529** or apply in-person at:
 
 You will need to submit the following supporting documents:
 
-* NRIC (applicable for in-person applications)
-
 **Court documents**
 
 *   Bail bond (or bailor’s confirmation, whichever applicable)
@@ -38,11 +38,12 @@ You will need to submit the following supporting documents:
 * Latest court mention slip
 
 *  Any other document from the court, or medical reports where applicable
+
 **Financial documents**
 
 * Latest bank statement(s) or bank account passbook(s)
 
-(_For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly._)&nbsp;&nbsp;&nbsp;
+      (_For each account, please provide the bank statement from the most recent calendar month,showing your full name, bank account number. For bank passbooks, please provide the first page with the account holder name and account number, and the last updated page. Transactions of the most recent month before the application date must be shown clearly._)&nbsp;&nbsp;&nbsp;
 
 
 * Payslips for the last 12 months (if employed without CPF contributions)
@@ -55,4 +56,4 @@ You will need to submit the following supporting documents:
 
 * Identity card (if applying in-person at MinLaw Services Centre or State Courts HELP Centre)
 
-You can refer to our application checklist above to ensure that you have completed and submitted all required documents.
+You can refer to our supporting documents checklist above to ensure that you have completed and submitted all required documents.
