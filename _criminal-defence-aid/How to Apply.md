@@ -3,13 +3,13 @@ title: How to Apply
 permalink: /criminal-defence-aid/How-to-Apply/
 description: ""
 ---
-#### Online Applications
+### Online Applications
 
 Apply online at [go.gov.sg/applypdo](https://go.gov.sg/applypdo).
 
 If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here](/files/FormSG%20Guide%20(281122).pdf)).
 
-#### In-person Applications
+### In-person Applications
 
 Apply in-person at:    
 
@@ -57,6 +57,6 @@ You will need to submit the following supporting documents:
 
 You can refer to our supporting documents checklist (click here) to confirm that you have prepared the required documents.
 
-#### Cannot find your charge sheet?
+### Cannot find your charge sheet?
 
 Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download documents from ICMS (click here).
