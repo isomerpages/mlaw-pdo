@@ -3,7 +3,6 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
-### History of criminal defence aid
 
 **1956:**
 
