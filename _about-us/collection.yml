@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About Ministry of Law.md
       - About the Public Defender’s Office.md
       - Our History.md
       - Our Logo.md
