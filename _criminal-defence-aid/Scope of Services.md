@@ -3,30 +3,19 @@ title: Scope of Services
 permalink: /criminal-defence-aid/scope-of-services/
 description: ""
 ---
-### Scope of assistance
-
 The Public Defender’s Office provides legal representation to individuals who cannot afford to engage a lawyer and are charged with most types of criminal offences.
 
-Criminal proceedings that the Public Defender's Office will **not** handle include:
+#### What type of criminal proceedings are not handled by the Public Defender’s Office?
 
-a.     offences which are punishable by death;
+The Public Defender's Office will **not** handle criminal proceedings relating to:
 
-b.     regulatory offences (for e.g., traffic summons) and departmental charges;
+a.     Offences punishable by death;
 
-c.     offences under the following acts:
+b.     Offences that are regulatory in nature (for e.g., traffic summons) and departmental charges;
 
-    1.  Remote Gambling Act 2014
-    2.  Common Gaming Houses Act 1961
-    3.  Casino Control Act 2006
-    4.  Betting Act 1960
-    5.  Gambling Control Act 2022
-    6.  Organised Crime Act 2015
-    7.  Massage Establishment Act 2017
-    8.  Terrorism (Suppression of Financing) Act 2002
-    9.  Terrorism (Suppression of Bombings) Act 2007
-    10. Terrorism (Suppression of Misuse of Radioactive Material) Act 2017
+c.     Offences under 10 Acts relating to gambling, organised and syndicate crime, and terrorism;
 
-d.     private prosecutions
+d.    Offences prosecuted by private person 
 
 Please refer to the Schedule under the Public Defender’s Act 2022 (click [here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704))for more information on the prescribed list of excluded offences and excluded class of offences.
 	
