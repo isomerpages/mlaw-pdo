@@ -2,7 +2,7 @@ collections:
   criminal-defence-aid:
     output: true
     order:
-      - Scope of Services.md
+      - Scope of Assistance.md
       - Qualifying for help.md
       - How to Apply.md
       - After you apply.md
