@@ -1,0 +1,9 @@
+collections:
+  criminal-defence-aid:
+    output: true
+    order:
+      - Scope of Assistance.md
+      - Qualifying for help.md
+      - How to Apply.md
+      - After you apply.md
+      - Common Questions.md
