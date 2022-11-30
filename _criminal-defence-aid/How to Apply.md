@@ -23,7 +23,7 @@ Apply in-person at:
 	  1 Havelock Square #B1-18 State Courts, Singapore 059724  
 		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
-**Supporting documents required**
+#### Supporting documents required
 
 You will need to submit the following supporting documents:
 
