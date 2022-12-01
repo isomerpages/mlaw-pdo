@@ -10,8 +10,6 @@ links:
     url: https://www.mlaw.gov.sg/about-us/contact-us/
   - title: E-Collection Portal
     url: https://eservices.mlaw.gov.sg/ecoll/index
-    sublinks:
-      - title: E-Collection Portal
-        url: https://eservices.mlaw.gov.sg/ecoll/index
+    sublinks: []
   - title: News
     resource_room: true
