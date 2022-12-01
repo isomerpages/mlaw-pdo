@@ -3,7 +3,6 @@ title: Scope of Assistance
 permalink: /criminal-defence-aid/scope-of-assistance/
 description: ""
 ---
-
 The Public Defender’s Office provides legal representation to individuals who cannot afford to engage a lawyer and are charged with most types of criminal offences.
 
 ### How can I get help from the Public Defender’s Office?
@@ -26,7 +25,7 @@ c.     Offences under 10 Acts relating to gambling, organised and syndicate 
 
 d.    Offences prosecuted by private person 
 
-The Schedule under the Public Defender’s Act 2022 sets out the (click [here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704)) list of excluded offences and excluded class of offences.
+The Schedule under the Public Defender’s Act 2022 sets out the (click [here](/files/Public%20Defenders%20Act%202022.pdf)) list of excluded offences and excluded class of offences.
 
 Excluded offences that are under 10 Acts relating to gambling, organised and syndicate crime, and terrorism is defined as offences under the following 10 Acts:
 
