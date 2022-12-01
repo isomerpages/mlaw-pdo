@@ -59,4 +59,4 @@ You can refer to our supporting documents checklist (click here) to confirm that
 
 ### Cannot find your charge sheet?
 
-Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download documents from ICMS (click here).
+Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download from ICMS ( click [here](/files/Guide%20on%20how%20to%20download%20charge%20sheet%20for%20ICMS.pdf)
