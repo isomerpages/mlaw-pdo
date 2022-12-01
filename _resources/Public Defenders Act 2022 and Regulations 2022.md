@@ -6,6 +6,6 @@ description: ""
 ### Legislation
 
 
-•	Public Defenders Act 2022 (click [Public Defender's Act 2022](/files/Public%20Defenders%20Act%202022.pdf)  )
+•	[Public Defender's Act 2022](/files/Public%20Defenders%20Act%202022.pdf)
 
-•	Public Defenders Regulations 2022 (click here)
+•	[Public Defenders Regulations 2022](/files/Public%20Defenders%20Regulations%202022.pdf)
