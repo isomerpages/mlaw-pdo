@@ -7,7 +7,7 @@ description: ""
 
 Apply online at [go.gov.sg/applypdo](https://go.gov.sg/applypdo).
 
-If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here](/files/FormSG%20Guide%20(281122).pdf)).
+If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here]).
 
 ### In-person Applications
 
