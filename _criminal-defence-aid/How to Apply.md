@@ -7,7 +7,7 @@ description: ""
 
 Apply online at [go.gov.sg/applypdo](https://go.gov.sg/applypdo).
 
-If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here](/files/FormSG%20Guide%20(281122).pdf)).
+If you encounter difficulties and need help with the completion of the online application form, please refer to our application guide for more information (click [here](/files/Online%20application%20guide.pdf)).
 
 ### In-person Applications
 
@@ -23,7 +23,7 @@ Apply in-person at:
 	  1 Havelock Square #B1-18 State Courts, Singapore 059724  
 		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
-**Supporting documents required**
+#### Supporting documents required
 
 You will need to submit the following supporting documents:
 
@@ -59,4 +59,4 @@ You can refer to our supporting documents checklist (click here) to confirm that
 
 ### Cannot find your charge sheet?
 
-Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download documents from ICMS (click here).
+Submitting a copy of your charge sheet is mandatory. If you do not have a copy of your charge sheet or other court documents, you can refer to the guide on how to download from ICMS ( click [here](/files/Guide%20on%20how%20to%20download%20charge%20sheet%20for%20ICMS.pdf)

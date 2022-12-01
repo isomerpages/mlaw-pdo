@@ -6,6 +6,6 @@ description: ""
 ### Legislation
 
 
-•	Public Defenders Act 2022 (click [here](https://sso.agc.gov.sg/Bills-Supp/17-2022/Published/20220704?DocDate=20220704))
+•	[Public Defender's Act 2022](/files/Public%20Defenders%20Act%202022.pdf)
 
-•	Public Defenders Regulations 2022 (click here)
+•	[Public Defenders Regulations 2022](/files/Public%20Defenders%20Regulations%202022.pdf)
