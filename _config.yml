@@ -16,9 +16,8 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: news
-description: The Public Defender’s Office (PDO) is established to enhance access
-  to justice to vulnerable persons through the provision of criminal defence
-  aid.
+description: The Public Defender’s Office is established to enhance access to
+  justice to vulnerable persons through the provision of criminal defence aid.
 permalink: none
 baseurl: ""
 exclude:
