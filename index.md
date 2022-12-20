@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Public Defender's Office
-description: An Isomer site of the Singapore Government
+description: The Public Defender’s Office (PDO) is established to enhance access
+  to justice to vulnerable persons through the provision of criminal defence
+  aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
 notification: ""
@@ -24,3 +26,4 @@ sections:
           url: https://pdo.mlaw.gov.sg/criminal-defence-aid/commonquestions/
       background: /images/figure.jpg
 ---
+
