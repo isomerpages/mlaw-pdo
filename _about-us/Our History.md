@@ -3,7 +3,6 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
-
 **1956:**
 
 The Legal Aid and Advice Ordinance was passed to provide free civil legal aid to deserving cases. Although the Ordinance contained a provision that envisaged legal aid for criminal cases, it was not brought into effect.
@@ -30,7 +29,7 @@ From 2015 to 2021, an average of more than 1,200 persons received support each y
 
 From 2015 to 2021, an average of more than 1,200 persons received support each year from CLAS, a three-fold increase from pre-2015.
 
-**2018- 2020:**
+**2019- 2020:**
 
 In 2018, the Government began a comprehensive review of Singapore’s criminal aid model. In 2020, the Ministry of Law announced that the Government was considering the feasibility of establishing a Public Defender’s Scheme.
 
