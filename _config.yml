@@ -51,8 +51,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mlaw-pdo-staging.netlify.app
-prod: https://mlaw-pdo-prod.netlify.app
+staging: https://staging.d2n4yibvmebyco.amplifyapp.com/
+prod: https://master.d2n4yibvmebyco.amplifyapp.com/
 is_government: true
 shareicon: /images/PDO PMS HORZ-02.png
 facebook-pixel: ""
