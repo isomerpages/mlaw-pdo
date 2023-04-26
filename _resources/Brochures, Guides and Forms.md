@@ -1,6 +1,6 @@
 ---
 title: Brochures, Guides and Forms
-permalink: /resources/Brochures-Guides-and-Forms/
+permalink: /resources/brochures-guides-and-forms/
 description: ""
 ---
 * [Brochure (English)](/files/Brochure.pdf)

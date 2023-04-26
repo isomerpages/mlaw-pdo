@@ -1,6 +1,6 @@
 ---
 title: About the Public Defender’s Office
-permalink: /about-us/About-the-Public-Defenders-Office/
+permalink: /about-us/about-the-public-defenders-office/
 description: ""
 ---
 The Public Defender’s Office (PDO) is established to enhance access to justice to vulnerable persons through the provision of criminal defence aid.
