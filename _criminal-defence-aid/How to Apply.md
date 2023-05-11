@@ -1,6 +1,6 @@
 ---
 title: How to Apply
-permalink: /criminal-defence-aid/How-to-Apply/
+permalink: /criminal-defence-aid/how-to-apply/
 description: ""
 ---
 ### Online Applications

@@ -1,6 +1,6 @@
 ---
 title: After you apply
-permalink: /criminal-defence-aid/After-you-apply/
+permalink: /criminal-defence-aid/after-you-apply/
 description: ""
 ---
 ![](/images/flowchart%203.jpg)

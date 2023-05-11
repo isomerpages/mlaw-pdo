@@ -8,6 +8,8 @@ links:
     collection: resources
   - title: Contact us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Careers
+    collection: careers
   - title: News
     resource_room: true
   - title: E-collection portal
