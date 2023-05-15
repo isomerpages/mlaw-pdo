@@ -14,4 +14,4 @@ Besides having a chance to observe ongoing criminal proceedings, interns will al
 
 The inaugural intake for this internship programme will be for 3 weeks in July 2023. We shall consider applications from Singapore Citizens & Permanent Residents reading law at local universities. Applicants must have completed the first year of their course. 
 
-Internship places are limited and we are looking forward to welcoming dynamic and committed individuals. Successful applicants will be granted this internship opportunity and receive a stipulated allowance. If you would like to apply for an internship, please fill in this form: [here](go.gov.sg/pdointernship). Applications close on: **31 May 2023**.
+Internship places are limited and we are looking forward to welcoming dynamic and committed individuals. Successful applicants will be granted this internship opportunity and receive a stipulated allowance. If you would like to apply for an internship, please fill in this form: [here](https://go.gov.sg/pdointernship). Applications close on: **31 May 2023**.
