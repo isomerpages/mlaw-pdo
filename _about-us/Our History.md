@@ -31,7 +31,7 @@ From 2015 to 2021, an average of more than 1,200 persons received support each y
 
 **2019- 2020:**
 
-In 2018, the Government began a comprehensive review of Singapore’s criminal aid model. In 2020, the Ministry of Law announced that the Government was considering the feasibility of establishing a Public Defender’s Scheme.
+In 2019, the Government began a comprehensive review of Singapore’s criminal aid model. In 2020, the Ministry of Law announced that the Government was considering the feasibility of establishing a Public Defender’s Scheme.
 
 **2022:**
 
