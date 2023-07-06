@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Public Defender's Office
 locations:
   - address:
-      - "45 Maxwell Road #07-11 "
-      - "The URA Centre (East Wing) "
+      - "45 Maxwell Road #07-11"
+      - The URA Centre (East Wing)
       - Singapore 069118
     operating_hours:
       - days: Mon - Fri
@@ -25,14 +25,15 @@ locations:
     title: State Courts (Help Centre)
 contacts:
   - content:
-      - phone: 1 800 180 0225
+      - phone: 1 800 225 5529
       - email: ""
       - other: For overseas callers, please use +65 62255 529
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: ""
-      - other: " Monday to Friday: 8:30am to 5:00pm (Closed on Weekends & Public
+      - other: "Monday to Friday: 8:30am to 5:00pm (Closed on Weekends & Public
           Holidays)"
     title: Enquiry Line Operating Hours
+feedback: https://eservices.mlaw.gov.sg/enquiry/
 ---
