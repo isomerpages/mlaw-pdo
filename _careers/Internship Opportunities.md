@@ -16,4 +16,4 @@ We will consider applications from Singapore Citizens and Permanent Residents re
 
 *[1]Overseas universities refer to institutions of higher learning outside Singapore and which are specified under the  [Schedules of the Legal Profession (Qualified Persons) Rules](https://legisgov.agc.gov.sg/SL/LPA1966-R15?DocDate=20220112&ProvIds=Sc4-XX-Sc4-#Sc4-XX-Sc4-).*
 
-Internship places are limited and interns will receive a prescribed allowance. To apply, please fill in this form[ [here]](https://form.gov.sg/6450e26ff96c4f001237686c).   Applications close on 1 October 2023 and successful applicants will be notified by end October. We look forward to seeing you!
+Internship places are limited and interns will receive a prescribed allowance. To apply, please fill in this form[[here]](https://form.gov.sg/6450e26ff96c4f001237686c).   Applications close on 1 October 2023 and successful applicants will be notified by end October. We look forward to seeing you!
