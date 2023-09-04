@@ -12,7 +12,7 @@ Aside from ongoing criminal proceedings, interns will be exposed to the delibera
 
 #### Eligibility
 
-We will consider applications from Singapore Citizens and Permanent Residents reading law either at local or scheduled overseas universities[1]. Applicants must have completed the first year of their course – and must be available during the stipulated period of this intake from 4 to 22 December 2023.
+We will consider applications from Singapore Citizens and Permanent Residents reading law either at local or scheduled overseas universities[1]. Applicants must have completed the first year of their course – and must be available during the stipulated period of this intake from **4 to 22 December 2023**.
 
 *[1]Overseas universities refer to institutions of higher learning outside Singapore and which are specified under the  [Schedules of the Legal Profession (Qualified Persons) Rules](https://legisgov.agc.gov.sg/SL/LPA1966-R15?DocDate=20220112&ProvIds=Sc4-XX-Sc4-#Sc4-XX-Sc4-).*
 
