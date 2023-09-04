@@ -5,13 +5,15 @@ description: ""
 ---
 #### Objective
 
+Public Defenders make a difference. This 3-week programme will introduce interns to the Public Defender’s Office (PDO) and allow interns to experience the work of a Public Defender. Interns can expect to work alongside the Public Defenders and attend court proceedings, client meetings, conduct research and prepare documents.
 
-An internship is a learning experience for aspiring lawyers to experience what the job offers and demands. This 3-week programme will introduce interns to the role of the Public Defender’s Office (PDO), and allow interns to experience the work of a Public Defender and how a Public Defender can make a difference. Interns can expect to work alongside the Public Defenders and attend court proceedings, client meetings, conduct research and prepare documents. 
-
-Besides having a chance to observe ongoing criminal proceedings, interns will also be exposed to the internal deliberations in the PDO, such as merits assessments and case strategy discussions. To enrich their internship programme and ensure a fruitful experience, interns will be assigned to designated Public Defenders as supervising mentors. 
+Aside from ongoing criminal proceedings, interns will be exposed to the deliberations within the PDO, such as merits assessments and case strategy discussions. To enrich their internship programme and ensure a fruitful experience, interns will be assigned to designated Public Defenders as supervising mentors.
 
 
 #### Eligibility
 
+We will consider applications from Singapore Citizens and Permanent Residents reading law either at local or scheduled overseas universities[1]. Applicants must have completed the first year of their course – and must be available during the stipulated period of this intake from 4 to 22 December 2023.
 
-Application for the July 2023 internship intake has closed. Any future openings or opportunities will be made known accordingly.
+*[1]Overseas universities refer to institutions of higher learning outside Singapore and which are specified under the  [Schedules of the Legal Profession (Qualified Persons) Rules](https://legisgov.agc.gov.sg/SL/LPA1966-R15?DocDate=20220112&ProvIds=Sc4-XX-Sc4-#Sc4-XX-Sc4-).*
+
+Internship places are limited and interns will receive a prescribed allowance. To apply, please fill in this form[ [here]](https://form.gov.sg/6450e26ff96c4f001237686c).   Applications close on 1 October 2023 and successful applicants will be notified by (date). We look forward to seeing you!
