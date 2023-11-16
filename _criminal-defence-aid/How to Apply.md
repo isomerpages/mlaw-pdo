@@ -2,6 +2,7 @@
 title: How to Apply
 permalink: /criminal-defence-aid/how-to-apply/
 description: ""
+variant: markdown
 ---
 ### Online Applications
 
@@ -17,11 +18,6 @@ Apply in-person at:
      
 	 45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118  
 	 Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public  holidays)
-
-*  **State Courts (Help Centre)**
-
-	  1 Havelock Square #B1-18 State Courts, Singapore 059724  
-		Mondays to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm
 
 #### Supporting documents required
 
@@ -53,7 +49,7 @@ You will need to submit the following supporting documents:
 
 *  Updated/Latest statements of investment products (such as fixed deposits, unit trusts, Singapore Saving Bonds and other investment products)
 
-* Identity card (if applying in-person at MinLaw Services Centre or State Courts HELP Centre)
+* Identity card (if applying in-person at MinLaw Services Centre)
 
 You can refer to our supporting documents checklist (click here) to confirm that you have prepared the required documents.
 
