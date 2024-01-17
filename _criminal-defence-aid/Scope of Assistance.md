@@ -2,8 +2,13 @@
 title: Scope of Assistance
 permalink: /criminal-defence-aid/scope-of-assistance/
 description: ""
+variant: markdown
 ---
 The Public Defender’s Office provides legal representation to individuals who cannot afford to engage a lawyer and are charged with most types of criminal offences.
+
+You may refer to the video below for a walkthrough of the application process and eligibility criteria for criminal defence aid with the Public Defender's Office.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="MoL PDOAnimation EditFINAL 1080pHiRes 20231010" src="[https://www.youtube.com/embed/u2fYg7BRIo4](https://www.youtube.com/embed/u2fYg7BRIo4)" height="383" width="681"></iframe>
 
 ### How can I get help from the Public Defender’s Office?
 
@@ -17,11 +22,11 @@ An eligible accused person will **not** get to choose between the Public Defende
 
 The Public Defender's Office will **not** handle criminal proceedings relating to:
 
-a.     Offences punishable by death;
+a.&nbsp;&nbsp;&nbsp;&nbsp; Offences punishable by death;
 
-b.     Offences that are regulatory in nature (for e.g., traffic summons) and departmental charges;
+b.&nbsp;&nbsp;&nbsp;&nbsp; Offences that are regulatory in nature (for e.g., traffic summons) and departmental charges;
 
-c.     Offences under 10 Acts relating to gambling, organised and syndicate crime, and terrorism;
+c.&nbsp;&nbsp;&nbsp;&nbsp; Offences under 10 Acts relating to gambling, organised and syndicate crime, and terrorism;
 
 d.    Offences prosecuted by private person 
 
