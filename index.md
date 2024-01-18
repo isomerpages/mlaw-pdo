@@ -25,14 +25,15 @@ sections:
           url: https://pdo.mlaw.gov.sg/criminal-defence-aid/commonquestions/
       background: /images/figure.jpg
   - infopic:
-      title: Application process
+      title: HOW TO APPLY
       subtitle: Scope of assistance
       id: infopic
-      description: You may refer to the video for a walkthrough of the application
-        process and eligibility criteria for criminal defence aid with the
-        Public Defender's Office.
+      description: "Watch this video on the application process and eligibility
+        criteria for criminal defence aid.
+
+        \ "
       button: Click here for full video
       url: https://www.youtube.com/embed/u2fYg7BRIo4
-      image: /images/application_video.PNG
+      image: /images/how_to_apply.PNG
       alt: "-"
 ---
