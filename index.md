@@ -34,4 +34,5 @@ sections:
       button: Click here for full video
       url: https://www.youtube.com/embed/u2fYg7BRIo4
       image: /images/application_video.PNG
+      alt: "-"
 ---
