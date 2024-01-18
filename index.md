@@ -33,5 +33,5 @@ sections:
         Public Defender's Office.
       button: Click here for full video
       url: https://www.youtube.com/embed/u2fYg7BRIo4
-      alt: Image alt text
+      image: /images/application_video.PNG
 ---
