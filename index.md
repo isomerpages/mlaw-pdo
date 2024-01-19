@@ -17,13 +17,21 @@ sections:
         - title: WHAT WE COVER
           description: ""
           url: https://pdo.mlaw.gov.sg/criminal-defence-aid/scope-of-assistance/
-        - title: "APPLY FOR CRIMINAL DEFENCE AID "
+        - title: APPLY FOR CRIMINAL DEFENCE AID
           description: Eligibility criteria & application process
           url: https://pdo.mlaw.gov.sg/criminal-defence-aid/how-to-apply/
         - title: Common Questions
           description: ""
           url: https://pdo.mlaw.gov.sg/criminal-defence-aid/commonquestions/
       background: /images/figure.jpg
+  - infopic:
+      title: HOW TO APPLY
+      subtitle: Scope of assistance
+      id: infopic
+      description: Watch this video on the application process and eligibility
+        criteria for criminal defence aid.
+      button: Click here for full video
+      url: https://www.youtube.com/embed/u2fYg7BRIo4
+      image: /images/how_to_apply.PNG
+      alt: "-"
 ---
-
-
