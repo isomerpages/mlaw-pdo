@@ -1,0 +1,16 @@
+logo: /images/PDO PMS HORZ-02.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Criminal Defence Aid
+    collection: criminal-defence-aid
+  - title: Resources
+    collection: resources
+  - title: Contact us
+    url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Careers
+    collection: careers
+  - title: News
+    resource_room: true
+  - title: E-collection portal
+    url: https://eservices.mlaw.gov.sg/ecoll/index

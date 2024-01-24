@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About the Public Defender’s Office.md
+      - Our History.md
+      - Our Logo.md
