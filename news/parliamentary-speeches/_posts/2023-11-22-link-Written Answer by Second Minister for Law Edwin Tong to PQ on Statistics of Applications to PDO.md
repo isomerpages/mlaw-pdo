@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.mlaw.gov.sg/news/parliamentary-speeches/written-answer-by-2m-edwin-tong-to-pq-statistics-of-pdo-applications/
+external: https://www.mlaw.gov.sg/news/parliamentary-speeches/written-answer-by-2m-edwin-tong-to-pq-statistics-of-pdo-applications/
 ---

@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.mlaw.gov.sg/news/parliamentary-speeches/oral-answer-by-minister-k-shanmugam-to-pqs-on-pdo/
+external: https://www.mlaw.gov.sg/news/parliamentary-speeches/oral-answer-by-minister-k-shanmugam-to-pqs-on-pdo/
 ---
