@@ -17,10 +17,12 @@ experience, interns will be assigned to designated Public Defenders as
 supervising mentors.</p>
 <h4>Eligibility</h4>
 <p>We will consider applications from Singapore Citizens and Permanent Residents
-reading law either at local or scheduled overseas universities <em>[1]</em>.
-Applicants must have completed the first year of their course – and must
-be available during the stipulated period.</p>
+reading law either at local or scheduled overseas universities <em>[1]</em>.</p>
 <p>[1] <em>Overseas universities refer to institutions of higher learning outside Singapore and which are specified under the <a href="https://legisgov.agc.gov.sg/SL/LPA1966-R15?DocDate=20220112&amp;ProvIds=Sc4-XX-Sc4-#Sc4-XX-Sc4-" rel="noopener noreferrer nofollow" target="_blank">Schedules of the Legal Profession (Qualified Persons) Rules</a>.</em>
 </p>
-<p>The next internship run is in July 2024 (date to be confirmed). Please
-stay tuned for more details on how to apply.</p>
+<p>Applicants are to take note of the following <strong>before</strong> applying:</p>
+<p>a. You must have completed the first year of your course; and</p>
+<p>b. be available throughout the stipulated internship period.</p>
+<p>The next internship run will be from <strong>8 July 2024 to 26 July 2024</strong>.</p>
+<p>Application for the July 2024 internship (click <a href="https://go.gov.sg/pdointernship" rel="noopener noreferrer nofollow" target="_blank">here</a>) will be opened on 1 April
+2024 and close on 30 April 2024. &nbsp;</p>
