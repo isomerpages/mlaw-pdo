@@ -7,8 +7,7 @@ image: /images/PDO PMS HORZ-02.png
 permalink: /
 notification: "Starting from 1 April 2024, all active recipients of criminal
   defence aid will be prohibited from entering casinos, jackpot machine rooms
-  and accessing Singapore Pools online betting accounts. Click here for more
-  details. "
+  and accessing Singapore Pools online betting accounts. "
 sections:
   - hero:
       title: Public Defender's Office
