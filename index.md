@@ -5,7 +5,10 @@ description: The Public Defender’s Office is established to enhance access to
   justice to vulnerable persons through the provision of criminal defence aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
-notification: ""
+notification: "Starting from 1 April 2024, all active recipients of criminal
+  defence aid will be prohibited from entering casinos, jackpot machine rooms
+  and accessing Singapore Pools online betting accounts. Click here for more
+  details. "
 sections:
   - hero:
       title: Public Defender's Office
