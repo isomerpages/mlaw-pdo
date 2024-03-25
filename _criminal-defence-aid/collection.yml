@@ -2,6 +2,7 @@ collections:
   criminal-defence-aid:
     output: true
     order:
+      - Gambling activities restrictions.md
       - Scope of Assistance.md
       - Qualifying for help.md
       - How to Apply.md
