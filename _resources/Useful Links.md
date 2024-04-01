@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.cjc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Community Justice Centre (CJC)</a></strong>
+<p><strong><a href="https://cjc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Community Justice Centre (CJC)</a></strong>
 </p>
 </li>
 <li>
