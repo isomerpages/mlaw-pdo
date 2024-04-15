@@ -7,6 +7,14 @@ variant: tiptap
 <p>The Public Defender’s Office provides legal representation to individuals
 who cannot afford to engage a lawyer and are charged with most types of
 criminal offences.</p>
+<p>You may refer to the video below for a walkthrough of the application
+process and eligibility criteria for criminal defence aid with the Public
+Defender's Office.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="594" width="1056" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Unl-ZzIhAVU"></iframe>
+</div>
+<p></p>
 <h3>How can I get help from the Public Defender’s Office?</h3>
 <p>The Public Defender’s Office will assess applications for criminal defence
 aid, including conducting a means test to assess the financial circumstances
