@@ -7,6 +7,7 @@ variant: markdown
 #### What happens if I am unable to pay the contribution amount?
 
 Please call **1800-225-5529** if you cannot meet the payment deadline and need more time to pay.
+*"Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers"*
 
 You may also request for a waiver, reduction of contribution amount or to pay in instalments. This request is however, assessed on a case-by-case basis.
 
