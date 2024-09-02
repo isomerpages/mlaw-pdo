@@ -30,5 +30,5 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 </li>
 </ul>
 <p>The next internship run will be from <strong>2 December 2024 to 20 December 2024</strong>.</p>
-<p>Application for the December 2024 internship opens on 02 September 2024
-and closes on 30 September 2024. &nbsp;</p>
+<p>Application for the December 2024 internship (click <a href="https://go.gov.sg/pdointernship" rel="noopener nofollow" target="_blank">here</a>)
+opens on 02 September 2024 and closes on 30 September 2024. &nbsp;</p>
