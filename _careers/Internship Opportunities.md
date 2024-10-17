@@ -30,7 +30,9 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 </li>
 </ul>
 <p>The next internship run will be from <strong>9 December 2024 to 27 December 2024*</strong>.</p>
-<p>Application for the December 2024 intake has closed. Thank you for your
-interest.</p>
 <p><em>*The internship dates have been revised to avoid the semester exam week.</em>
 </p>
+<p>Application for the December 2024 intake has closed. Thank you for your
+interest. Please note that only successful/shortlisted candidates will
+be notified on the outcome.</p>
+<p></p>
