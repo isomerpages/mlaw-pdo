@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Code of Practice.md
       - Public Defenders Act 2022 and Regulations 2022.md
       - Brochures, Guides and Forms.md
+      - Code of Practice.md
       - Useful Links.md
