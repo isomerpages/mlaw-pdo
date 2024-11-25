@@ -183,5 +183,14 @@ officer of a statutory body, or (ii) under any of the following 36 Acts:</p>
 <li>
 <p>Workplace Safety and Health Act 2006</p>
 </li>
+<li>
+<p>Town Councils Act 1988</p>
+</li>
+<li>
+<p>Bankruptcy Act (Cap 20, 2009 Rev Ed)</p>
+</li>
+<li>
+<p>Pawnbrokers Act 2015</p>
+</li>
 </ul>
 <p></p>
