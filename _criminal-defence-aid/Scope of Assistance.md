@@ -73,7 +73,7 @@ and syndicate crime, and terrorism is defined as offences under the following
 </ul>
 <p>Excluded offences that are regulatory in nature is defined where the individual
 was served with a Notice to Attend Court or issued a summons (i) by an
-officer of a statutory body, or (ii) under any of the following 36 Acts:</p>
+officer of a statutory body, or (ii) under any of the following 39 Acts:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Advance Medical Directive Act 1996</p>
