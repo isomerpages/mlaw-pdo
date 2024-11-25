@@ -35,7 +35,7 @@ e.g., traffic summons) and departmental charges;</p>
 organised and syndicate crime, and terrorism;</p>
 <p>d. Offences prosecuted by private person</p>
 <p>The Schedule under the Public Defender’s Act 2022 sets out the (click
-<a href="/files/Public%20Defenders%20Act%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>) list of excluded offences and excluded class of offences.</p>
+<a href="/files/Public_Defenders_Act_2022.pdf" rel="noopener nofollow" target="_blank">here</a>) list of excluded offences and excluded class of offences.</p>
 <p>Excluded offences that are under 10 Acts relating to gambling, organised
 and syndicate crime, and terrorism is defined as offences under the following
 10 Acts:</p>
