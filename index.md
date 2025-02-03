@@ -5,7 +5,7 @@ description: The Public Defender’s Office is established to enhance access to
   justice to vulnerable persons through the provision of criminal defence aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
-notification: "System Maintenance Notice:  There will be ongoing system
+notification: "System Maintenance Notice:  There will be an ongoing system
   maintenance from Tuesday, 4 February 2025 to Sunday, 9 February 2025.  The
   counters at the Ministry of Law Services Centre and State Courts Help Centre
   can only address general queries. All applications for criminal defence aid
