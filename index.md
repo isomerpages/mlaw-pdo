@@ -5,9 +5,13 @@ description: The Public Defender’s Office is established to enhance access to
   justice to vulnerable persons through the provision of criminal defence aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
-notification: Starting from 1 April 2024, all active recipients of criminal
-  defence aid will be prohibited from entering casinos, jackpot machine rooms
-  and accessing Singapore Pools online betting accounts.
+notification: "System Maintenance Notice:  There will be an ongoing system
+  maintenance from Tuesday, 4 February 2025 to Sunday, 9 February 2025.  The
+  counters at the Ministry of Law Services Centre and State Courts Help Centre
+  can only address general queries. All applications for criminal defence aid
+  during this period can only be submitted to the PDO via
+  https://go.gov.sg/applypdo.  We appreciate your understanding during this
+  period."
 sections:
   - hero:
       title: Public Defender's Office
