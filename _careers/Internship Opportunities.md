@@ -29,10 +29,7 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 <p>and be available throughout the stipulated internship period.</p>
 </li>
 </ul>
-<p>The next internship run will be from <strong>9 December 2024 to 27 December 2024*</strong>.</p>
-<p><em>*The internship dates have been revised to avoid the semester exam week.</em>
-</p>
-<p>Application for the December 2024 intake has closed. Thank you for your
-interest. Please note that only successful/shortlisted candidates will
-be notified on the outcome.</p>
+<p>The next internship run will be from <strong>7 July 2025 to 25 July 2025</strong>.</p>
+<p>Application for the July 2025 internship opens on 1 April 2025 and closes
+on 30 April 2025.</p>
 <p></p>
