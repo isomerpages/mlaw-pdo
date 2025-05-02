@@ -30,8 +30,8 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 </li>
 </ul>
 <p>The next internship run will be from <strong>7 July 2025 to 25 July 2025</strong>.</p>
-<p>Application for the July 2025 internship (click <a href="https://go.gov.sg/pdo-internship" rel="noopener nofollow" target="_blank">here</a>) opens on 1 April 2025
-and closes on 30 April 2025.</p>
+<p>Application for the July 2025 internship has closed. Thank you for your
+interest.</p>
 <p>Due to the high volume of applications, only shortlisted candidates will
 be contacted for the next stage of the selection process. We thank all
 applicants for their interest.</p>
