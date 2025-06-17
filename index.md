@@ -5,7 +5,11 @@ description: The Public Defender’s Office is established to enhance access to
   justice to vulnerable persons through the provision of criminal defence aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
-notification: ""
+notification: Government officials will <b>NEVER</b> ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit <a target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
 sections:
   - hero:
       title: Public Defender's Office
