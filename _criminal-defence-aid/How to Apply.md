@@ -18,6 +18,7 @@ Apply in-person at:
      
 	 45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118  
 	 Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public  holidays)
+	 Please book an appointment at https://go.gov.sg/omp before visiting the Ministry of Law Services Centre
 	 
 * **State Courts (Help Centre)** 
 
