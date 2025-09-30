@@ -26,12 +26,14 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 <p>You must have completed the first year of your course;</p>
 </li>
 <li>
-<p>and be available throughout the stipulated internship period.</p>
+<p>Be available throughout the stipulated internship period; and</p>
+</li>
+<li>
+<p>Include your cover letter, CV and academic transcripts in the application.</p>
 </li>
 </ul>
-<p>The next internship run will be from <strong>7 July 2025 to 25 July 2025</strong>.</p>
-<p>Application for the July 2025 internship has closed. Thank you for your
-interest.</p>
+<p>The next internship run will be from <strong>8 December 2025 to 26 December 2025</strong>.</p>
+<p>Applications for the December 2025 internship will be open until <strong><u>31 October 2025</u></strong>.</p>
 <p>Due to the high volume of applications, only shortlisted candidates will
 be contacted for the next stage of the selection process. We thank all
 applicants for their interest.</p>
