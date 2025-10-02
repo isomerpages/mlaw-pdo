@@ -33,7 +33,8 @@ reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 </li>
 </ul>
 <p>The next internship run will be from <strong>8 December 2025 to 26 December 2025</strong>.</p>
-<p>Applications for the December 2025 internship will be open until <strong><u>31 October 2025</u></strong>.</p>
+<p>Applications for the December 2025 internship will be open until <strong><u>31 October 2025</u></strong>.
+To apply, click on the <a href="https://go.gov.sg/pdo-internship" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p>Due to the high volume of applications, only shortlisted candidates will
 be contacted for the next stage of the selection process. We thank all
 applicants for their interest.</p>
