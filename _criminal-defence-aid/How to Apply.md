@@ -16,15 +16,15 @@ information (click <a href="/files/Online%20application%20guide.pdf" rel="noopen
 <p><strong>Ministry of Law Services Centre</strong>
 </p>
 <p>45 Maxwell Road #07-11 The URA Centre (East Wing), Singapore 069118
-<br>Mondays to Fridays: 8:30am to 5:00pm (closed on weekends and public holidays)</p>
+<br>Mondays to Fridays: 8:30am to 5:00pm (Closed on weekends and public holidays)</p>
 <p>Please book an appointment at&nbsp;<a href="https://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting the Ministry
 of Law Services Centre</p>
 </li>
 <li>
 <p><strong>State Courts (Help Centre)</strong>
 </p>
-<p>1 Havelock Square #B1-18 State Courts, Singapore 059724&nbsp; Mondays
-to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm</p>
+<p>1 Havelock Square #B1-18 State Courts, Singapore 059724&nbsp;(Mondays
+to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm)</p>
 </li>
 </ul>
 <h4>Supporting documents required</h4>
@@ -53,14 +53,10 @@ to Fridays: 9:00am to 12:00pm, 2:00pm to 5:00pm</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Latest bank statement(s) or bank account passbook(s)</p>
+<p><em>(Please provide bank statement(s) from the most recent calendar month, with your full name and bank account number clearly reflected. For bank passbook(s), please provide the first page bearing the account holder's name and account number, and the last updated page. Transactions from the most recent month before the application date <u>must</u> be clearly reflected)</em>
+</p>
 </li>
 </ul>
-<p>(Please provide bank statement(s) from the most recent calendar month,
-with your full name and bank account number clearly reflected. For bank
-passbook(s), please provide the first page bearing the account holder's
-name and account number, and the last updated page. All transactions from
-the most recent month before the application date <u>must</u> be clearly
-reflected)</p>
 <ul>
 <li>
 <p>Payslips for the last 12 months (if employed without CPF contributions)</p>
