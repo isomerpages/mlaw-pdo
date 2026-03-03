@@ -76,9 +76,7 @@ unit trusts, Singapore Saving Bonds and other investment products)</p>
 Courts HELP Centre)</p>
 </li>
 </ul>
-<p>You can refer to our supporting documents checklist to confirm that you
-have prepared the required documents.</p>
 <h3>Cannot find your charge sheet?</h3>
 <p>Submitting a copy of your charge sheet is mandatory. If you do not have
 a copy of your charge sheet or other court documents, you can refer to
-the guide on how to download from ICMS ( click <a href="/files/Guide%20on%20how%20to%20download%20charge%20sheet%20for%20ICMS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
+the guide on how to download from ICMS (click <a href="/files/Guide%20on%20how%20to%20download%20charge%20sheet%20for%20ICMS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
