@@ -9,9 +9,9 @@ variant: markdown
 
 To assess your application, you will need to undergo two interviews:
 
-(1)&nbsp;&nbsp; **Means Test Interview** – determine if you have limited financial means to afford legal representation
+(1)&nbsp;&nbsp; **Means Test Interview** – determine if you have limited financial means to afford legal representation; and
 
-(2)&nbsp;&nbsp; **Merits Test Interview** – determine if you have reasonable grounds for bringing or defending a case in Court
+(2)&nbsp;&nbsp; **Merits Test Interview** – determine if you have reasonable grounds for bringing or defending a case in Court.
 
 During the interviews, we may ask you to provide further information or documentation to assess your financial circumstances, or to understand your legal case better.
 
