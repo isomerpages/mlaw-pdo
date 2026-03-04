@@ -13,7 +13,7 @@ To assess your application, you will need to undergo two interviews:
 
 (2)&nbsp;&nbsp; **Merits Test Interview** – determine if you have reasonable grounds for bringing or defending a case in Court.
 
-You will be informed of your interview schedule, and you must make yourself available for the respective interview which will typically be conducted via telephone. To ensure efficiency in the interview process, please indicate in your application if you require any special assistance (i.e. sign or foreign language interpretation). In the event you are unable to attend any interview, kindly inform the respective officer in advance for a reschedule.
+You will be informed of your interview schedule, and you must make yourself available for the respective interview which will typically be conducted via telephone. To ensure efficiency in the interview process, please indicate in your application if you require any special assistance (i.e. sign or foreign language interpretation). In the event you are unable to attend any interview, kindly inform in advance the respective officer for a reschedule.
 
 During the interviews, our officers may ask you to provide further information or documentation to assess your financial circumstances, or to understand your legal case better. Hence, your cooperation is essential for our officers to provide a full and complete assessment of your case.
 
