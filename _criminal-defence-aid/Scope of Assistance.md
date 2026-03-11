@@ -12,7 +12,7 @@ process and eligibility criteria for criminal defence aid with the Public
 Defender's Office.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="594" width="1056" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Unl-ZzIhAVU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="594" width="1056" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Unl-ZzIhAVU"></iframe>
 </div>
 <p></p>
 <h3>How can I get help from the Public Defender’s Office?</h3>
@@ -71,9 +71,10 @@ and syndicate crime, and terrorism is defined as offences under the following
 <p>Terrorism (Suppression of Misuse of Radioactive Material) Act 2017</p>
 </li>
 </ul>
-<p>Excluded offences that are regulatory in nature is defined where the individual
-was served with a Notice to Attend Court or issued a summons (i) by an
-officer of a statutory body, or (ii) under any of the following 39 Acts:</p>
+<p>Excluded offences that are regulatory in nature is defined (i) where the
+individual was served with a Notice to Attend Court or issued a summons
+by an officer of a statutory body; or (ii) under any of the following 39
+Acts:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Advance Medical Directive Act 1996</p>
