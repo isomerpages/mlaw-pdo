@@ -19,6 +19,7 @@ information (click <a href="/files/Online%20application%20guide.pdf" rel="noopen
 <br>Mondays to Fridays: 8:30am to 5:00pm (Closed on weekends and public holidays)</p>
 <p>Please book an appointment at&nbsp;<a href="https://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting the Ministry
 of Law Services Centre</p>
+<p></p>
 </li>
 <li>
 <p><strong>State Courts (Help Centre)</strong>
