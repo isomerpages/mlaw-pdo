@@ -20,6 +20,9 @@ supervising mentors.</p>
 reading law either at local or scheduled overseas universities <sup>1</sup>.</p>
 <p><sup>1 </sup><em>Overseas universities refer to institutions of higher learning outside Singapore and which are specified under the <a href="https://legisgov.agc.gov.sg/SL/LPA1966-R15?DocDate=20220112&amp;ProvIds=Sc4-XX-Sc4-#Sc4-XX-Sc4-" rel="noopener noreferrer nofollow" target="_blank">Schedules of the Legal Profession (Qualified Persons) Rules</a>.</em>
 </p>
+<p><strong>Applications for the July 2026 PDO Internship Programme are now open. The application deadline is 13 May 2026 (click </strong>
+<a href="https://go.gov.sg/pdo-internship" rel="noopener nofollow" target="_blank">here</a><strong> to apply).</strong>
+</p>
 <p>Applicants are to take note of the following <strong>before</strong> applying:</p>
 <ul data-tight="true" class="tight">
 <li>
