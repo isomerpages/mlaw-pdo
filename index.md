@@ -5,12 +5,17 @@ description: The Public Defender’s Office is established to enhance access to
   justice to vulnerable persons through the provision of criminal defence aid.
 image: /images/PDO PMS HORZ-02.png
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit www.scamshield.gov.sg. MinLaw is conducting a website
-  usability study from 1 Jul to 31 Aug 2026. Refer to FAQs or call us for more
-  details.
+notification: <p>Government officials will <b>NEVER</b> ask you to transfer
+  money or disclose bank log-in details over a phone call. Call the 24/7
+  ScamShield Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit <a target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.</p> <br>
+  <p>The Ministry of Law is inviting participants for a website usability study
+  from 1 July to 31 August 2026. The study does not require participants to
+  transfer money or disclose any bank details. If in doubt, call us at 1800 2255
+  529. Refer to our <a target="_blank"
+  href="https://ask.gov.sg/mlaw?topic=Website+usability+study">FAQs</a> for more
+  information.</p>
 sections:
   - hero:
       title: Public Defender's Office
