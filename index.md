@@ -8,9 +8,9 @@ permalink: /
 notification: Government officials will NEVER ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit www.scamshield.gov.sg. MinLaw is conducting a website
-  usability study from 1 Jul to 31 Aug 2026. Refer to FAQs or call us for more
-  details.
+  information, visit [www.scamshield.gov.sg](https://www.scamshield.gov.sg/).
+  MinLaw is conducting a website usability study from 1 Jul to 31 Aug 2026.
+  Refer to FAQs or call us for more details.
 sections:
   - hero:
       title: Public Defender's Office
